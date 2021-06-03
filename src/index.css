@@ -1,0 +1,17 @@
+
+* {
+  font-family: "Rubik",sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+  margin: 0;
+  font-family: Times, serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+html{
+  scroll-behavior: smooth;
+}
+
+
